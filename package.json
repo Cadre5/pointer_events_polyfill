@@ -1,0 +1,20 @@
+{
+  "name": "pointer_events_polyfill",
+  "version": "1.0.0",
+  "description": "Pointer Events Polyfill is a short javascript library which adds support for the style attribute \"pointer-events: none\" to browsers without this feature (namely, MS IE).",
+  "main": "pointer_events_polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cadre5/pointer_events_polyfill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cadre5/pointer_events_polyfill/issues"
+  },
+  "homepage": "https://github.com/Cadre5/pointer_events_polyfill#readme"
+}
